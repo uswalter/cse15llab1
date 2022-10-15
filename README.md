@@ -5,7 +5,7 @@ CSE 15L Lab 1
 Wangkai Qiu
 09/30/2022
 
-![alt text](http://url/to/img.png)
+![alt text](https://user-images.githubusercontent.com/114546275/195970643-c1a0b1b9-2d36-49d3-a802-c8e08d6adae0.png)
 
  
  
@@ -17,7 +17,7 @@ Write down in notes: Everyone should share a screenshot of VScode open – help 
 Part 4 – Remotely Connecting - 15 mins
 Write down in notes: When you’re done, discuss what you saw upon login. Take a screenshot or copy/paste the output. Did you all see the same thing? What might the differences mean? Note the results of your discussion in the notes document.
 
-
+![alt text](https://user-images.githubusercontent.com/114546275/195970656-cbdbd73a-619d-43cc-8ebf-5751f271f5b7.png)
 
 
 
@@ -63,7 +63,7 @@ It took me not very long because scp, compilation, and program running all went 
 Part 7 – SSH Keys
 Write down in notes: Try to get everyone to the point where they can do this, and take a screenshot of logging in without a password. If you can’t, share a screenshot and description of where you got stuck!
 
- 
+ ![alt text](https://user-images.githubusercontent.com/114546275/195970657-0c71daee-299d-4806-b625-c4298a4c28f0.png)
  
  
 Write down in notes: Repeat the timing experiment of editing and running WhereAmI.java now that you don’t have to use a password. How much time is saved per run?
